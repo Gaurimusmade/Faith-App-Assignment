@@ -1,0 +1,17 @@
+.links {
+    margin-bottom: 3px;
+    margin-right: 50px;
+    font-weight: bold;
+}
+
+.links:hover {
+    border-bottom: 2px solid rgb(47, 4, 148);
+}
+
+.links:active {
+    border-bottom: 2px solid rgb(47, 4, 148);
+}
+
+.links.active {
+    border-bottom: 2px solid rgb(47, 4, 148);
+}
